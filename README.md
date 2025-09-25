@@ -1,1 +1,16 @@
 # inline_hook_Game_Guardian
+
+This method was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
+
+Warnings! This is a real and legitimate inline hook for Game Guardian (I was the first to create it here; this tool was not originally supposed to have any hooks!).
+
+It only works on Unity il2cpp 64-bit builds where you can dump the game!
+
+For the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
+
+Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy Channel 2 Star_Space_Local_Yaxcess
+Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/inline_hook_Game_Guardian
+License: GNU General Public License v3.0 (GPL-3.0)
+Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
+
+My Connact for Gmail y8068723@gmail.com
