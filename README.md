@@ -8,9 +8,9 @@ It only works on Unity il2cpp 64-bit builds where you can dump the game!
 
 For the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
 
-Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy My Second Channel Star_Space_Local_Yaxcess
+Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy My Second YouTube Channel Star_Space_Local_Yaxcess
 Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/inline_hook_Game_Guardian
 License: GNU General Public License v3.0 (GPL-3.0)
-Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
+Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025 Sky-Stars-Air-Yaxcess
 
 My Connact for Gmail y8068723@gmail.com
