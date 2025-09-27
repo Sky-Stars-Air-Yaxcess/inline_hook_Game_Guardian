@@ -2,7 +2,8 @@
 
 This method was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
 
-Warnings! This is a real and legitimate inline hook for Game Guardian (I was the first to create it here; this tool was not originally supposed to have any hooks!).
+Warning: This is a genuine Native Inline Hook for Game Guardian. This is the first hook for this tool, which does not and was not originally intended to support this feature.
+
 
 It only works on Unity il2cpp 64-bit builds where you can dump the game!
 
